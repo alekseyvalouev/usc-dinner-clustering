@@ -1,12 +1,12 @@
-Table,People
-Table 1,"William Mullins, James Choi, Henry Friedman, Annie Wang, Jonathan Rogers, Ryan Brown, Carmen Payne Mann, Robin Lee"
-Table 2,"Zhi Da, Shijia Wu, Siew Hong Teoh, Devin Shanthikumar, David Hirshleifer, Anastassia Fedyk, Joon Sang Yoon, Vivek Pandey"
-Table 3,"Bryce Schonberger, Christina Synn, Jeff McMullin, Nishant Dass, Chuchu Liang, Chenqi Zhu, Tiange Ye, Wenwei Lin"
-Table 4,"Kevin Murphy, Zihan Lin, Juhani Linnainmaa, Chris Jones, Allan Timmermann, Ricardo De la O, Jinfei Sheng, Christopher Parsons"
-Table 5,"Robert Dittmar, Christina Zhu, Will Cong, Ryan Erhard, Matthew Shaffer, Suzanne Burzillo, Sidd Mehta, Yifei Liao"
-Table 6,"Shane Heitzman, Matteo Benetton, Zhao Zhang, Ben Zhang, Eric Allen, Selahattin Imrohoroglu, Jesse Gardner, Litong Zhang"
-Table 7,"Stan Markov, Travis Dyer, Nicholas Guest, TJ Wong, Mani Sethuraman, Austin Moss, Kenneth Ahern, Nick Bloom, Avanidhar Subrahmanyam, David Tsui"
-Table 8,"Jerry Hoberg, Han Xia, Jon Garfinkel, Yuan Chen, Daniel O'Leary, Thomas Ash, Jessie Cheong, Ruoxin Wan"
-Table 9,"Yaron Levi, Rodney Ramcharan, Zahn Bozanic, Mario Milone, Yu Ting Forester Wong, Wenhao Li, Aleksandr Zotov"
-Table 10,"Lorien Stice-Lawrence, Douglas Skinner, Ryan Guggenmos, Lukas Schmid, Kristi Rennekamp, Maria Ogneva, Stephan Heller, Ioannis Moustakis"
-Table 11,"Mitch Warachka, Jonas Heese, Ekaterina Neretina, Randy Beatty, Clive Lennox, Mark DeFond, Patricia Dechow, Augusto Orellana"
+Table,People,Table Size
+Table 1,"William Mullins, James Choi, Henry Friedman, Annie Wang, Jonathan Rogers, Ryan Brown, Wenwei Lin, Ruoxin Wan",8
+Table 2,"Zhi Da, Shijia Wu, Siew Hong Teoh, Devin Shanthikumar, David Hirshleifer, Anastassia Fedyk, Yifei Liao, Vivek Pandey",8
+Table 3,"Bryce Schonberger, Christina Synn, Jeff McMullin, Nishant Dass, Chuchu Liang, Chenqi Zhu, Carmen Payne Mann, Robin Lee",8
+Table 4,"Kevin Murphy, Zihan Lin, Juhani Linnainmaa, Chris Jones, Allan Timmermann, Ricardo De la O, Jinfei Sheng, Christopher Parsons",8
+Table 5,"Robert Dittmar, Christina Zhu, Will Cong, Ryan Erhard, Matthew Shaffer, Suzanne Burzillo, Jesse Gardner",7
+Table 6,"Shane Heitzman, Matteo Benetton, Zhao Zhang, Ben Zhang, Eric Allen, Selahattin Imrohoroglu, Jessie Cheong, Augusto Orellana",8
+Table 7,"Stan Markov, Travis Dyer, Nicholas Guest, TJ Wong, Mani Sethuraman, Austin Moss, Kenneth Ahern, Nick Bloom, Avanidhar Subrahmanyam, David Tsui",10
+Table 8,"Jerry Hoberg, Han Xia, Jon Garfinkel, Yuan Chen, Daniel O'Leary, Thomas Ash, Ioannis Moustakis, Sidd Mehta",8
+Table 9,"Yaron Levi, Rodney Ramcharan, Zahn Bozanic, Mario Milone, Yu Ting Forester Wong, Wenhao Li, Stephan Heller, Aleksandr Zotov",8
+Table 10,"Lorien Stice-Lawrence, Douglas Skinner, Ryan Guggenmos, Lukas Schmid, Kristi Rennekamp, Maria Ogneva, Joon Sang Yoon, Tiange Ye",8
+Table 11,"Mitch Warachka, Jonas Heese, Ekaterina Neretina, Randy Beatty, Clive Lennox, Mark DeFond, Patricia Dechow, Litong Zhang",8
